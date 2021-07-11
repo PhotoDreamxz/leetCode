@@ -26,4 +26,4 @@ var longestPalindrome = function(s) {
     }
 };
 
-console.log(longestPalindrome("bb"))
+// console.log(longestPalindrome("bb"))
