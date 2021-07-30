@@ -42,3 +42,7 @@ var nextPermutation = function(nums) {
        }
    }
 };
+
+/**
+ * 
+ */
