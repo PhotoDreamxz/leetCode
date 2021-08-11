@@ -31,6 +31,7 @@ var search = function(nums, target) {
 };
 
 function binarySearch(low,heigh){
-
+    var mid = (low + heigh)/2
+        if()
 }
 
